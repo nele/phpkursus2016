@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/student/Desktop/html/testiprojekt/testiprojekt.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="7" Name="m_selectedTab"/>
   <wxString Value="/home/student/Desktop/html/testiprojekt/testiprojekt.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/home/student/Desktop/html/syntax/var.php" Name="FileName"/>
       <int Value="39" Name="FirstVisibleLine"/>
-      <int Value="48" Name="CurrentLine"/>
+      <int Value="50" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/home/student/Desktop/html/syntax/if.php" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="30" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/case.php" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="6" Name="CurrentLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/loop.php" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="137" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/while.php" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/math.php" Name="FileName"/>
+      <int Value="120" Name="FirstVisibleLine"/>
+      <int Value="125" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/ascription.php" Name="FileName"/>
+      <int Value="21" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/student/Desktop/html/syntax/negatory.php" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
