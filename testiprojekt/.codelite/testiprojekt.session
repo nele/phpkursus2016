@@ -4,9 +4,9 @@
   <wxString Value="/home/student/Desktop/html/testiprojekt/testiprojekt.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/home/student/Desktop/html/syntax/arrays.php" Name="FileName"/>
+      <wxString Value="/home/student/Desktop/html/syntax/functions.php" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="8" Name="CurrentLine"/>
+      <int Value="5" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
