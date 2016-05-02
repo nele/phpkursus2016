@@ -30,4 +30,11 @@ kana 428384";
 
 getname("koer");
 
+
+
+$today = date("d.m.Y H:i:s");
+echo $today;
+
+
+
 ?>
