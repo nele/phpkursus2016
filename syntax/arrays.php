@@ -8,4 +8,7 @@ $drinks[]="Energiajook";
 
 echo $drinks[0];
 
+echo"<p>";
+print_r($drinks);
+
 ?>
