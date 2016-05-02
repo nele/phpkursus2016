@@ -1,5 +1,5 @@
-/*nele,2. mai 2016*/
 <?php
+/*nele,2. mai 2016*/
 /*
 Ülesanne 0101
 Järgnevas ülesandes tohib kasutada vaid IF tingimust ja FOR tsükklit. Arvude üleühe kuvamiseks kasutage lisamuutujat. Kuvada ühe FOR tsükkliga välja järgmine arvude jada järgmisel kujul: 
