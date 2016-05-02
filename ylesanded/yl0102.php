@@ -1,5 +1,6 @@
 <?php
-/*Ülesanne 0102
+/*nele, 2. mai 2016
+Ülesanne 0102
 Järgnevas ülesandes tohib kasutada vaid IF tingimust ja FOR tsükklit. Kuvada ühe FOR tsükkliga välja järgmine arvude jada järgmisel kujul: 
 -11
 -10
