@@ -1,5 +1,5 @@
 <?php
-/*
+/*nele, 2. mai 2016
 Ülesanne 0104
 Kuvada kahe FOR tsükkliga välja järgmine arvude jada järgmisel kujul: 
 1,0
