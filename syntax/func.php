@@ -33,7 +33,7 @@ getname("koer");
 
 
 $today = date("d.m.Y H:i:s");
-echo $today;
+ec ho $today;
 
 
 
