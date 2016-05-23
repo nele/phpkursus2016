@@ -1,6 +1,8 @@
 
 <?php
 /*
+Nele, 13. mai 2016
+
 Ülesanne 0304
 
 Kasutades arikmeetilist tehet moodul teha funktsioon nimega "number_info", mille sisendargumendiks on täisarv ja mis: 
