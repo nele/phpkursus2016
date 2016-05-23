@@ -35,7 +35,7 @@ $colors[14]="Maroon";
 
 for($i=0; $i<sizeof($colors); $i++)
 {
-  echo $i . '. <span style="color:'  . $colors[$i] . '" >' . $colors[$i] . '</span><br />';
+  echo ($i+1) . '. <span style="color:'  . $colors[$i] . '" >' . $colors[$i] . '</span><br />';
 } 
 
 
