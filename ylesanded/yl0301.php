@@ -1,6 +1,8 @@
 <?php
 
 /*
+Nele, 13. mai 2016
+
 Ülesanne 0301
 
 Luua massiivi nimega "$mas" elementidega Karu, Jänes, Hunt, Rebane, Hirv, Hiir, Põder, Ahv, Mäger, Mutt.
