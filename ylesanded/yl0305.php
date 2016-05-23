@@ -1,6 +1,8 @@
 
 <?php
 /*
+Nele, 13. mai 2016
+
 Ülesanne 0305
 
 Teha funktsioon nimega "string_info". Funktsiooni sisendargumendiks olgu teksti string ($string). Funktsioon üleb:
