@@ -26,9 +26,12 @@ NB! Ei kavatse seda kuskile müüma hakata. Küsimused võtsin lauamängust liht
 <br><br>
 Mäng on praegu üleval ka minu domeenis aadressil  <a href="http://www.naris.ee">naris.ee</a> .
 <br><br>
-Allalaetud ja lahti pakitud failidest tuleks käivitada index.html.
-<p>
+Allalaetud ja lahti pakitud failidest tuleks käivitada index.html. Sealt edasi saab juba valida, kas käivitada kasutusjuhend või kohe küsimustele vastama asuda.
+<br><br>
+Kasutamine: peale mängu käivitamist tuleb vastata lihtsalt küsimustele. <br>
+Kui jätad küsimusele kogemata vastusevariandi valimata, antakse sellest sulle teada ja suunatakse tagasi eelmise küsimuse juurde.
 
+<p>
 
 
 <b>Autorist ja programmist</b><br>
