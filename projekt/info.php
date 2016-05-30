@@ -26,7 +26,7 @@ NB! Ei kavatse seda kuskile müüma hakata. Küsimused võtsin lauamängust liht
 <br><br>
 Mäng on praegu üleval ka minu domeenis aadressil  <a href="http://www.naris.ee">naris.ee</a> .
 <br><br>
-Allalaetud failidest tuleks käivitada index.html.
+Allalaetud ja lahti pakitud failidest tuleks käivitada index.html.
 <p>
 
 
